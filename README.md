@@ -9,7 +9,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## Leaflet 1 Folder 
 
-I vizualised the Earthquake data from USGS (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) by mapping it using Leafet.js and D3.js libraries:
+I vizualised the Earthquake data from USGS (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) by mapping with Leafet.js and D3.js Javascript libraries:
 
 <img width="1440" alt="Screenshot 2022-08-20 at 22 00 11" src="https://user-images.githubusercontent.com/67019030/185766111-642cb700-3706-4e71-a1e2-af137af03ff2.png">
   
@@ -18,7 +18,7 @@ I vizualised the Earthquake data from USGS (http://earthquake.usgs.gov/earthquak
 
 ### Leaflet 2 Folder  
 
-I visualized Tectonic Plates data from (https://github.com/fraxen/tectonicplates) by mapping it using Leaflet.js and D3.js libraries and put this layer on top of the Eartquake Layer in the previous map to illustrate the relationship between tectonic plates and seismic activity.
+I visualized Tectonic Plates data from (https://github.com/fraxen/tectonicplates) by mapping with Leaflet.js and D3.js Javascript libraries and put this layer on top of the Eartquake Layer in the previous map to illustrate the relationship between tectonic plates and seismic activity.
 
 <img width="1440" alt="Screenshot 2022-08-20 at 22 02 17" src="https://user-images.githubusercontent.com/67019030/185766140-dc05d506-3812-4e2d-ab1e-127ecda813da.png">
 
