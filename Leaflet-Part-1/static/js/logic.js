@@ -3,7 +3,6 @@
 let url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
 d3.json(url).then(function (data) {
 
-
   let myMap = L.map("map", {
     center: [15.5994, -28.6731],
     zoom: 3

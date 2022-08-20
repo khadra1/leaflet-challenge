@@ -7,8 +7,6 @@ let myMap = L.map("map").setView([15.5994, -28.6731],3)
   id: "mapbox/satellite-v9",
   accessToken: API_KEY}).addTo(myMap)
   
-
-
 //  Create earthquakes 
 let url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
 d3.json(url).then(function (data) {
